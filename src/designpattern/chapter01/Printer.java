@@ -1,4 +1,4 @@
-package designpattern;
+package designpattern.chapter01;
 
 public class Printer {
 
